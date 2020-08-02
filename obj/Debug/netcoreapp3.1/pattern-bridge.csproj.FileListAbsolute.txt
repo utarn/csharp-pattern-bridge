@@ -1,0 +1,13 @@
+C:\projects\pattern-bridge\obj\Debug\netcoreapp3.1\pattern-bridge.csprojAssemblyReference.cache
+C:\projects\pattern-bridge\obj\Debug\netcoreapp3.1\pattern-bridge.AssemblyInfoInputs.cache
+C:\projects\pattern-bridge\obj\Debug\netcoreapp3.1\pattern-bridge.AssemblyInfo.cs
+C:\projects\pattern-bridge\obj\Debug\netcoreapp3.1\pattern-bridge.csproj.CoreCompileInputs.cache
+C:\projects\pattern-bridge\bin\Debug\netcoreapp3.1\pattern-bridge.exe
+C:\projects\pattern-bridge\bin\Debug\netcoreapp3.1\pattern-bridge.deps.json
+C:\projects\pattern-bridge\bin\Debug\netcoreapp3.1\pattern-bridge.runtimeconfig.json
+C:\projects\pattern-bridge\bin\Debug\netcoreapp3.1\pattern-bridge.runtimeconfig.dev.json
+C:\projects\pattern-bridge\bin\Debug\netcoreapp3.1\pattern-bridge.dll
+C:\projects\pattern-bridge\bin\Debug\netcoreapp3.1\pattern-bridge.pdb
+C:\projects\pattern-bridge\obj\Debug\netcoreapp3.1\pattern-bridge.dll
+C:\projects\pattern-bridge\obj\Debug\netcoreapp3.1\pattern-bridge.pdb
+C:\projects\pattern-bridge\obj\Debug\netcoreapp3.1\pattern-bridge.genruntimeconfig.cache
