@@ -1,19 +1,24 @@
 namespace pattern_bridge
 {
-    // Remote Control (TurnOn, TurnOff)
-       // SonyRemoteControl
-       // SamsungRemoteControl
-    // Advanced Remote Control (SetChannel)
-       // SonyAdvanceRemoteControl
-       // SamsungAdvanceRemoteControl
-    // Movie Remote Control (Play, Pause, Rewind)   
-       // SonyMovieRemoteControl
-       // SamsungMovieRemoteControl
-
-    // 1 brand --> add 3 classes
-    public abstract class RemoteControl
+    // RemoteControl
+       // AdvanceRemoteControl
+       // MovieRemoteControl
+    public class RemoteControl
     {
-        public abstract void TurnOn();
-        public abstract void TurnOff();
+        protected Device device;
+
+        public RemoteControl(Device device)
+        {
+            this.device = device;
+        }
+        public void TurnOn()
+        {
+            device.TurnOn();
+        }
+
+        public void TurnOff()
+        {
+            device.TurnOff();
+        }
     }
 }
